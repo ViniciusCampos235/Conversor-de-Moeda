@@ -1,9 +1,15 @@
-package br.com.alura.moeda.model;
+package br.com.alura.moeda.model.view;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class TestaClasse {
+import br.com.alura.moeda.model.ConversorDolar;
+import br.com.alura.moeda.model.ConversorEuro;
+import br.com.alura.moeda.model.ConversorLibrasEsterlinas;
+import br.com.alura.moeda.model.ConversorPesoArgentino;
+import br.com.alura.moeda.model.ConvertePesoChileno;
+
+public class ExecutaPrograma {
 
 	public static void main(String[] args) {
 
