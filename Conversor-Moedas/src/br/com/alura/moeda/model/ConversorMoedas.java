@@ -2,8 +2,14 @@ package br.com.alura.moeda.model;
 
 public class ConversorMoedas {
 
-	public double converte(double valorEmReais) {
-		return valorEmReais;
-	}
+    /**
+     * @param valorEmReais
+     * @return
+     * @name classe mãe
+     */
+
+    public double converte(double valorEmReais) {return valorEmReais;
+    }
+
 
 }
