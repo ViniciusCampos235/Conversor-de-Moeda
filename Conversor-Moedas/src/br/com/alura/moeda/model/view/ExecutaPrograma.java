@@ -8,9 +8,7 @@ import br.com.alura.moeda.model.ConversorEuro;
 import br.com.alura.moeda.model.ConversorLibrasEsterlinas;
 import br.com.alura.moeda.model.ConversorPesoArgentino;
 import br.com.alura.moeda.model.ConvertePesoChileno;
-
 public class ExecutaPrograma {
-
 	public static void main(String[] args) {
 
 		double converte;
